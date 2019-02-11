@@ -1,7 +1,7 @@
 {
-  "main.css": "/projectresinplast/static/css/main.938e6a1c.chunk.css",
-  "main.js": "/projectresinplast/static/js/main.b9afad6a.chunk.js",
-  "main.js.map": "/projectresinplast/static/js/main.b9afad6a.chunk.js.map",
+  "main.css": "/projectresinplast/static/css/main.d122ebbd.chunk.css",
+  "main.js": "/projectresinplast/static/js/main.10e4af65.chunk.js",
+  "main.js.map": "/projectresinplast/static/js/main.10e4af65.chunk.js.map",
   "static/css/1.2e2fcce3.chunk.css": "/projectresinplast/static/css/1.2e2fcce3.chunk.css",
   "static/js/1.71a253df.chunk.js": "/projectresinplast/static/js/1.71a253df.chunk.js",
   "static/js/1.71a253df.chunk.js.map": "/projectresinplast/static/js/1.71a253df.chunk.js.map",
@@ -15,8 +15,8 @@
   "static/media/index.css": "/projectresinplast/static/media/omnes-regular-webfont.2f6ac4d2.ttf",
   "static/media/home.css": "/projectresinplast/static/media/S2.ad385448.png",
   "static/css/1.2e2fcce3.chunk.css.map": "/projectresinplast/static/css/1.2e2fcce3.chunk.css.map",
-  "static/css/main.938e6a1c.chunk.css.map": "/projectresinplast/static/css/main.938e6a1c.chunk.css.map",
+  "static/css/main.d122ebbd.chunk.css.map": "/projectresinplast/static/css/main.d122ebbd.chunk.css.map",
   "index.html": "/projectresinplast/index.html",
-  "precache-manifest.6381dfc5af94b7a8ec8ac8b97f596649.js": "/projectresinplast/precache-manifest.6381dfc5af94b7a8ec8ac8b97f596649.js",
+  "precache-manifest.6309c4b8005c6d42a8105719ef828574.js": "/projectresinplast/precache-manifest.6309c4b8005c6d42a8105719ef828574.js",
   "service-worker.js": "/projectresinplast/service-worker.js"
 }
