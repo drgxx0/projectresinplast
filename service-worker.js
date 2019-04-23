@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/projectresinplast/precache-manifest.3ca1b663628a6b12f156f834684d07c2.js"
+  "/projectresinplast/precache-manifest.1b4284391dcbad14af70ac776ddfa8f9.js"
 );
 
 workbox.clientsClaim();
